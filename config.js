@@ -171,7 +171,7 @@ var config = {
             alignment: 'centered',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/XxJfbmQZ/5.png',
+            image: 'https://i.ibb.co/mV10Tq69/ss.png',
             description: '',
             location: {
                  center: [29.1087514496626,41.00146109221629],
@@ -197,7 +197,7 @@ var config = {
             alignment: 'centered',
             hidden: false,
             title: '',
-           image: 'https://i.ibb.co/kVC5P7d8/6.png',
+           image: 'https://i.ibb.co/RG4x5mnJ/ss2.png',
             description: '',
             location: {
                 center: [29.1087514496626,41.00146109221629],
